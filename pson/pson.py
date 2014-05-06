@@ -1,5 +1,4 @@
 import json
-from pprint import pprint
 
 def pathparser(path, separator="."):
     return path.split(separator)
